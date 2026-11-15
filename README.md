@@ -39,7 +39,7 @@ Benefits:
 4. Database Integration: Store farmer profiles, available crops, product prices, buyer details, and order information in the database.
 5. Testing: Test user registration, product searches, order placement, payment processing, and delivery coordination.
 6. Deployment and Evaluation: Appoint a person who has a knowledge in the website in  a local village or market, collect feedback, and improve the platform before expanding to other areas.
-![alt text]({A1ADC2EC-C430-4A83-9225-C40229FEF4C0}.png)
+![alt text](mind-map.png)
 
 ## Feasibility and Viability
 1. Technically Feasible: The platform can be developed using existing web technologies, databases, smartphones, and digital payment systems without requiring expensive infrastructure.
